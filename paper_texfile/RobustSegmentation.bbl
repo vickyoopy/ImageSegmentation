@@ -1,0 +1,109 @@
+\begin{thebibliography}{10}
+
+\bibitem{boykov2001interactive}
+Y.Y Boykov and M-P Jolly,
+\newblock ``Interactive graph cuts for optimal boundary \& region segmentation
+  of objects in nd images,''
+\newblock in {\em ICCV}. IEEE, 2001, vol.~1, pp. 105--112.
+
+\bibitem{rother2004grabcut}
+C~Rother, V~Kolmogorov, and A~Blake,
+\newblock ``Grabcut: Interactive foreground extraction using iterated graph
+  cuts,''
+\newblock in {\em TOG}. ACM, 2004, vol.~23, pp. 309--314.
+
+\bibitem{grady2006random}
+Leo Grady,
+\newblock ``Random walks for image segmentation,''
+\newblock {\em TPAMI}, vol. 28, no. 11, pp. 1768--1783, 2006.
+
+\bibitem{zhang2010diffusion}
+J~Zhang, J~Zheng, and J~Cai,
+\newblock ``A diffusion approach to seeded image segmentation,''
+\newblock in {\em CVPR}. IEEE, 2010, pp. 2125--2132.
+
+\bibitem{bai2007geodesic}
+X~Bai and G~Sapiro,
+\newblock ``A geodesic framework for fast interactive image and video
+  segmentation and matting,''
+\newblock in {\em ICCV}. IEEE, 2007, pp. 1--8.
+
+\bibitem{criminisi2008geos}
+A~Criminisi, T~Sharp, and A~Blake,
+\newblock ``Geos: Geodesic image segmentation,''
+\newblock in {\em ECCV}, pp. 99--112. Springer, 2008.
+
+\bibitem{sinop2007seeded}
+A.K Sinop and L~Grady,
+\newblock ``A seeded image segmentation framework unifying graph cuts and
+  random walker which yields a new algorithm,''
+\newblock in {\em ICCV}. IEEE, 2007, pp. 1--8.
+
+\bibitem{bresson2007fast}
+X~Bresson, S~Esedolu, P~Vandergheynst, J-P Thiran, and S~Osher,
+\newblock ``Fast global minimization of the active contour/snake model,''
+\newblock {\em Journal of Mathematical Imaging and vision}, vol. 28, no. 2, pp.
+  151--167, 2007.
+
+\bibitem{nguyen2012robust}
+T.N.A Nguyen, J~Cai, J~Zhang, and J~Zheng,
+\newblock ``Robust interactive image segmentation using convex active
+  contours,''
+\newblock {\em TIP}, vol. 21, no. 8, pp. 3734--3743, 2012.
+
+\bibitem{yang2003improved}
+C~Yang, R~Duraiswami, N.A Gumerov, and L~Davis,
+\newblock ``Improved fast gauss transform and efficient kernel density
+  estimation,''
+\newblock in {\em ICCV}. IEEE, 2003, pp. 664--671.
+
+\bibitem{an2008appprop}
+X~An and F~Pellacini,
+\newblock ``Appprop: all-pairs appearance-space edit propagation,''
+\newblock in {\em TOG}. ACM, 2008, vol.~27, p.~40.
+
+\bibitem{xu2009efficient}
+K~Xu, Y~Li, T~Ju, S-M Hu, and T~Liu,
+\newblock ``Efficient affinity-based edit propagation using kd tree,''
+\newblock in {\em TOG}. ACM, 2009, vol.~28, p. 118.
+
+\bibitem{xu2009edit}
+K~Xu, J~Wang, X~Tong, S-M Hu, and B~Guo,
+\newblock ``Edit propagation on bidirectional texture functions,''
+\newblock in {\em Computer Graphics Forum}. Wiley Online Library, 2009,
+  vol.~28, pp. 1871--1877.
+
+\bibitem{levin2004colorization}
+A~Levin, D~Lischinski, and Y~Weiss,
+\newblock ``Colorization using optimization,''
+\newblock {\em TOG}, vol. 23, no. 3, pp. 689--694, 2004.
+
+\bibitem{lischinski2006interactive}
+D~Lischinski, Z~Farbman, M~Uyttendaele, and R~Szeliski,
+\newblock ``Interactive local adjustment of tonal values,''
+\newblock in {\em TOG}. ACM, 2006, vol.~25, pp. 646--653.
+
+\bibitem{xu2013sparse}
+L~Xu, Q~Yan, and J~Jia,
+\newblock ``A sparse control model for image and video editing,''
+\newblock {\em TOG}, vol. 32, no. 6, pp. 197, 2013.
+
+\bibitem{GoldsteinBO10}
+Tom Goldstein, Xavier Bresson, and Stanley Osher,
+\newblock ``Geometric applications of the split bregman method: Segmentation
+  and surface reconstruction,''
+\newblock {\em J. Sci. Comput.}, vol. 45, no. 1-3, pp. 272--293, 2010.
+
+\bibitem{GoldsteinO09}
+Tom Goldstein and Stanley Osher,
+\newblock ``The split bregman method for l1-regularized problems,''
+\newblock {\em SIAM J. Imaging Sciences}, vol. 2, no. 2, pp. 323--343, 2009.
+
+\bibitem{duchenne2008segmentation}
+Olivier Duchenne, J-Y Audibert, Renaud Keriven, Jean Ponce, and Florent
+  S{\'e}gonne,
+\newblock ``Segmentation by transduction,''
+\newblock in {\em Computer Vision and Pattern Recognition, 2008. CVPR 2008.
+  IEEE Conference on}. IEEE, 2008, pp. 1--8.
+
+\end{thebibliography}

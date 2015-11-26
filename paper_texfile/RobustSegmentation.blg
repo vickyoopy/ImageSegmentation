@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RobustSegmentation.aux
+The style file: IEEEbib.bst
+Database file #1: refs.bib
+Warning--can't use both volume and number fields in rother2004grabcut
+Warning--can't use both volume and number fields in an2008appprop
+Warning--can't use both volume and number fields in xu2009efficient
+Warning--can't use both volume and number fields in xu2009edit
+Warning--can't use both volume and number fields in lischinski2006interactive
+You've used 19 entries,
+            1838 wiz_defined-function locations,
+            569 strings with 6197 characters,
+and the built_in function-call counts, 6104 in all, are:
+= -- 600
+> -- 220
+< -- 18
++ -- 80
+- -- 61
+* -- 472
+:= -- 860
+add.period$ -- 31
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 293
+empty$ -- 585
+format.name$ -- 61
+if$ -- 1452
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 19
+newline$ -- 98
+num.names$ -- 19
+pop$ -- 70
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 456
+swap$ -- 133
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 62
+width$ -- 21
+write$ -- 229
+(There were 5 warnings)
